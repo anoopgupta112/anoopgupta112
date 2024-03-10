@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoop Chandra</h1>
 <h3 align="center">I am a Student, Coder and a Python Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif" />
-
-
 - 🧑🏽‍💻 Greetings! I'm Anoop, 
   I'm currently pursuing an MCA in Data Science from LPU and also doing the PwSkill Data Science course, which has given me a hands-on understanding of data science skills. I am a passionate data scientist with a strong foundation in machine learning, web scraping, deep learning, NLP, and computer vision, etc.
 
